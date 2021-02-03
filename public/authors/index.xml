@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Blog de José Miguel Avendaño I.</title>
+    <link>https://javendaXgh.github.io/authors/</link>
+      <atom:link href="https://javendaXgh.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://javendaXgh.github.io/media/me.jpg</url>
+      <title>Authors</title>
+      <link>https://javendaXgh.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

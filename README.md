@@ -1,1 +1,0 @@
-# javendaXgh.github.io
